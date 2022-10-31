@@ -203,7 +203,7 @@
 						<option>Non-consumable</option> -->
 					
 				</div>
-				<div class="form-group">
+				<div classgi="form-group">
 					<label>Status</label>
 					<select name="e_status" class="form-control" required>
 						<option disabled selected>Please select status</option>
